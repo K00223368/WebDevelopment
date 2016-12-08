@@ -1,0 +1,105 @@
+<!DOCTYPE html> 
+<html lang="en">
+
+    <head>
+        
+        <title>Planning a Wedding</title>
+        <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+        <script src="js/js.js"></script>
+    </head>
+    <body>
+        
+     <div id="container">
+        
+            <header>
+                 <img src="img/Logobells.png" alt="logo"/>
+         </header>
+                <hr/> 
+                <div id="navbar">
+               <ul id="navlist"> 
+                   <li><a href="index.html">Home</a></li>
+                   <li><a href="MyStory_html5.html">My Story</a></li>
+                   <li><a href="PlanningaWedding.html">Planning</a></li>
+                   <li><a href="Gallery.html">Gallery</a></li>
+                   <li><a href="Contact.html">Contact</a></li>
+                </ul>
+            </div>
+         <div id="form">     
+  <form><input type="text" placeholder="Search." ><input type="button" value="Search">
+                </form>
+             </div>  
+            
+            
+            
+       
+            
+    
+        <div id="contact">
+		<h1>Contact</h1>
+		<div id="conform">
+      <form action="mailto:lorraine_mc_mahon8@hotmail.com" method="post" onsubmit="return validateForm()" enctype="text/plain" name="form">
+          <p>First Name: <input type="text" name="firstname"/></p>
+          <p>Last Name: <input type="text" name="lastname"/></p>
+          <p>Email Address: <input type="text" name="email"/></p>
+          <p>Comment: <textarea name="comment">Enter text here...</textarea></p>
+          
+           <input type="submit" value="Send">
+          <input type="reset" value="Reset">
+          
+                  
+        </form>
+      </div>
+        
+          <h2>Google Map</h2>
+
+<div id="map" style="width:50%;height:250px"></div>
+</div>
+     
+         
+         <script>
+      var map;
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: {lat: 52.6680, lng: -8.6305},
+          zoom: 8
+        });
+      }
+    </script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCL6HJsIt7nmFpMX4cUHhg3cUy3C76IodQ&callback=initMap"
+    async defer></script>
+
+         
+
+  <div id="table">
+  <table>
+  <tr>
+    <th>Business</th>
+     <th>Contact Details</th> 
+    
+   </tr>
+  <tr>
+    <td>Interflora</td>
+     <td>(061) 413 670</td> 
+   </tr>
+  <tr>
+    <td>Radisson Blu</td>
+     <td>(061) 456 200</td> 
+   </tr>
+   <tr>
+    <td>Fields Jewellers</td>
+     <td>(061) 307 359</td> 
+   </tr>
+</table> 
+  
+  
+  </div>
+  
+        
+            <div class="footer">
+            <footer>
+                <p>&copy; 2016 Lorraine Brennan</p>
+            </footer>
+        </div> 
+            </div>
+  </body>   
+</html>

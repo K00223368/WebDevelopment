@@ -1,0 +1,508 @@
+#container {
+    width:1200px;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
+    float:center;
+}
+header img {
+    width:100%;
+    float:left;
+    
+    
+}
+#navbar {
+    float:left;
+    width:500px;
+}
+#form {
+    float:left;
+}
+#blackandwhite {
+    float:left;
+    width:1200px;
+}
+#blackandwhite img {
+    width:900px;
+        float:left;
+    margin-left:150px;
+	margin-top:60px;
+}
+
+#engage {
+	width:1200px;
+	margin-top:100px;
+	float:left;
+}
+#engage img {
+	 width:300px;
+    padding-left:100px;
+    float:left;
+    margin-top:100px;
+    margin-bottom:30px;
+	margin-left:350px;
+}
+#engage h2 {
+	float:left;
+	width:1200px;
+	text-align:center;
+}
+
+#links {
+    width:1200px;
+    float:left;
+    margin-top:150px;
+	
+	margin-right:20px;
+}
+
+#rings {
+	width:400px;
+	float:left;
+	height:300px;
+	
+	}
+#rings h2 {
+	padding-left:100px;
+	padding-right:100px;
+	margin-left:40px;
+}
+  #day {
+	width:400px;
+	height:300px;
+	float:left;
+	}
+#day h2 {
+	padding-left:100px;
+	padding-right:100px;
+	margin-left:40px;
+}
+    #hints {
+	width:400px;
+	height:300px;
+	float:left;
+	}
+#hints h2 {
+	padding-left:100px;
+	padding-right:100px;
+	margin-left:40px;
+}
+   
+
+#links img {
+    width:280px;
+    padding-left:100px;
+    float:left;
+    margin-top:20px;
+    margin-bottom:30px;
+	margin-right:80px;
+    
+    
+}
+.footer {
+    width:1200px;
+    color:grey;
+    height:70px;
+    float:left;
+    background-color:whitesmoke;
+    
+}
+#navbar {
+	width:400px;
+}
+
+
+ul#navlist {
+    padding: 0; 
+    margin: 10px 0px 0px 0px; 
+    list-style-type: none; 
+    width:400px;
+	margin-bottom:20px;
+	
+}
+
+ul#navlist li {
+	display: inline;
+  background-color:lightblue;
+  padding : 4px;
+  border: blue solid 1px;
+} 
+ul#navlist a:hover { 
+    color: #fff; 
+    background-color: #0033cc; 
+    font-weight: bold; 
+}
+#form {
+	float:left;
+	width:300px;
+	margin-left:500px;
+}
+#story {
+	width:1200px;
+	height:auto;
+	float:left;
+	margin-top:50px;
+}
+#story1 {
+	width:550px;
+	float:left;
+	margin-left:25px;
+	
+}
+#story1 img{
+	width:300px;
+	height:300px;
+margin-left:60px;
+}
+#story1 p {
+	text-align:left;
+margin-left:100px;
+font-size:20px;
+}
+
+#story2 {
+	width:550px;
+	float:left;
+	margin-left:25px;
+}
+#story2 img {
+	
+	width:300px;
+	height:300px;
+	margin-left:220px;
+	
+}
+#story2 p {
+	text-align:center;
+	margin-left:200px;
+	font-size:20px;
+}
+#mystorytext {
+	width:1000px;
+	margin-left:100px;
+}
+#mystorytext h1 {
+	text-align:center;
+	font-family:weddingbells;
+	font-size: 34px; 
+	}
+#mystorytext p {
+	font-size:20px;
+	font-family:sans-serif;
+}
+
+#weddingtxt{
+	width:1000px;
+	margin-left:100px;
+	float:left;
+}
+
+#weddingtxt h1 {
+	font-family:weddingbells;
+	font-size:34px;
+	
+}
+#weddingtxt ul, li {
+	font-size:18px;
+	font-family:sans-serif;
+}
+#weddingtxt p {
+	font-size:19px;
+	font-family:sans-serif;	
+}
+#planlinks {
+	width:1200px;
+	height:auto;
+	float:left;
+	
+}
+#bride{
+	width:650px;
+	float:left;
+	height:auto;
+}
+#bride img,  #bride p {
+	width:600px;
+	margin:25px;
+	text-align:center;
+	font-size:22px;
+	font-family:sans-serif;
+}
+
+#groom {
+	float:left;
+	width:550px;
+	height:auto;
+	
+	
+}
+#groom img, #groom p {
+	width:500px;
+	margin:25px;
+	text-align:center;
+	font-size:22px;
+	font-family:sans-serif;
+}
+
+#bridesmaid {
+	width:800px;
+	float:left;
+	height:auto;
+	margin-left:200px;
+	}
+#bridesmaid img, #bridesmaid p {
+	width:750px;
+	margin:25px;
+
+	text-align:center;
+	font-size:22px;
+	font-family:sans-serif;
+}
+#songlinks {
+	width:1200px;
+	height:auto;
+	float:left;
+	text-align:center;
+	margin-top:150px;
+}
+#songlinks p {
+	font-family:sans-serif;
+	text-align:center;
+}
+#songlinks h2 {
+	float:left;
+	width:1200px;
+	text-align:center;
+	
+}
+
+#songlink1 {
+	width:300px;
+	height:auto;
+	float:left;
+}
+#songlink2 {
+	width:300px;
+	height:auto;
+	float:left;
+}
+#songlink3 {
+	width:300px;
+	height:auto;
+	float:left;
+}
+#songlink4 {
+	width:300px;
+	height:auto;
+	float:left;
+}
+
+#songlink1 img{
+	width:290px;
+	height:290px;
+	margin:5px;
+}
+#songlink2 img {
+	width:290px;
+	height:290px;
+	margin:5px;
+}
+
+#songlink3 img {
+	width:290px;
+	height:290px;
+	margin:5px;
+}
+#songlink4 img {
+	width:290px;
+	height:290px;
+	margin:5px;
+}
+
+#contact  {
+	float:left;
+	width:1200px;
+	height:auto;
+	margin-top:20px;
+}
+#contact h1{
+text-align:center;
+font-family:weddingbells;
+font-size: 34px;
+}
+#conform {
+	width:560px;
+	height:auto;
+	float:left;
+	margin-left:20px;
+}
+#map {
+	width:600px;
+	height:auto;
+	float:left;
+	margin-right:20px;
+	margin-bottom:90px;	
+}
+#contact h2 {
+	text-align:right;
+	font-family:sans-serif;
+	margin-right:15px;
+}
+
+#gallery , #gallery p, #gallery h1{
+	width:1200px;
+	float:left;
+	height:auto;
+	font-family:sans-serif;
+	text-align:center;
+	margin-bottom:50px;
+}
+#gallery h1{
+	font-family:weddingbells;
+	font-size: 34px; 
+	text-align:center;
+	margin-bottom:50px;
+}
+#dress {
+	width:1200px;
+	float:left;
+	height:auto;
+}
+#dress img {
+	width:600px;
+	float:left;
+	margin-left:300px;
+}
+
+#bridesmaids2 {
+	width:1200px;
+	float:left;
+	height:auto;
+}
+#bridesmaids2 img {
+	width:600px;
+	float:left;
+	margin-left:300px;
+}
+
+#groomsmen {
+	width:1200px;
+	float:left;
+	height:auto;
+}
+#groomsmen img {
+	width:600px;
+	float:left;
+	margin-left:300px;
+}
+
+#shoes {
+	width:1200px;
+	float:left;
+	height:auto;
+}
+#shoes img {
+	width:600px;
+	float:left;
+	margin-left:300px;
+}
+
+#hair {
+	width:1200px;
+	float:left;
+	height:auto;
+}
+#hair img {
+	width:600px;
+	float:left;
+	margin-left:300px;
+}
+
+
+#makeup {
+	width:1200px;
+	float:left;
+	height:auto;
+}
+#makeup img {
+	width:600px;
+	float:left;
+	margin-left:300px;
+}
+#jewellery {
+	width:1200px;
+	float:left;
+	height:auto;
+}
+#jewellery img {
+	width:600px;
+	float:left;
+	margin-left:300px;
+}
+
+
+#kos {
+	width:1200px;
+	float:left;
+	height:auto;
+}
+#kos img {
+	width:600px;
+	float:left;
+	margin-left:300px;
+}
+
+#cake {
+	width:1200px;
+	float:left;
+	height:auto;
+}
+#cake img {
+	width:600px;
+	float:left;
+	margin-left:300px;
+}
+#tips {
+	width:1200px;
+	float:left;
+	height:auto;
+}
+#tips img {
+	width:700px;
+	float:left;
+	margin-left:300px;
+	margin-top: 100px; 
+}
+#paragraph {
+	width:1000px;
+	margin-left:100px;
+	float:left;
+	margin-top: 100px;
+}
+
+#paragraph h2 {
+	font-family:weddingbells;
+	font-size:28px;
+	
+}
+#paragraph p {
+	font-size:19px;
+	font-family:sans-serif;
+	
+} 
+@font-face{
+	font-family:weddingbells;
+	src: url(../weddingbells.ttf);
+}
+#table {
+	width: 1200px;
+	float: left; 
+	margin-left: 20px;
+	margin-bottom: 80px; 
+	
+}
+#table th, #table td {
+	font-family: sans-serif;
+	text-align: left;
+}
+

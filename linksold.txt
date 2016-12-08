@@ -1,0 +1,18 @@
+<div id="links">
+                
+               
+                <a href="https://www.fields.ie/weddings/wedding-rings.html/"><img src="img/Wedding%20rings.jpg" alt="logo"/></a>
+                
+                <a href="http://www.bookyourweddingday.com/"><img src="img/venue.jpg" alt="logo" /></a>
+                <img src="img/Hints&Tips.png" alt="logo"/>
+                
+                <div id="descrp"> <p>Wedding Rings</p>
+                <p>Wedding Day</p> <p>Tips and Hints</p>
+				
+				 <div id="engage">
+                <a href="https://www.theknot.com/content/just-engaged-advice-tips"><img src="img/Engagement_ring.jpg" alt="logo"/></a>
+                    
+                    </div>     
+               <p>Getting Engaged</p>
+        </div>
+        </div>
